@@ -14,8 +14,8 @@ The project uses Assembly language to interface with a DHT22 sensor and display 
 ## 🧰 Thành phần | Components
 
 - Vi điều khiển ATmega324p (AVR)
-  ATmega324p microcontroller 
-- Cảm biến nhiệt độ & độ ẩm DHT22  (AVR)
+  ATmega324p microcontroller (AVR)
+- Cảm biến nhiệt độ & độ ẩm DHT22
   DHT22 temperature & humidity sensor  
 - Màn hình LCD 16x2  
   16x2 LCD display
