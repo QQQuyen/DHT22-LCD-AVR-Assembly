@@ -26,15 +26,4 @@ The project uses Assembly language to interface with a DHT22 sensor and display 
 ---
 ![image](https://github.com/user-attachments/assets/b21bd8f7-27fa-4804-b1c5-1d2b30211eed)
 
-## 📁 Cấu trúc thư mục | Folder Structure
-📦 TN03_DHT22_LCD_AVR_Assembly
-├── code/ → Mã nguồn Assembly | Assembly source code
-
-├── simulation/ → File mô phỏng Proteus | Proteus simulation files
-
-├── report/ → Báo cáo PDF | Project report
-
-├── videos/ → Video báo cáo & mô phỏng | Report and demo videos
-
-└── README.md → Mô tả song ngữ | Bilingual description
 
