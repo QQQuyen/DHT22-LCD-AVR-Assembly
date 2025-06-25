@@ -14,9 +14,9 @@ Link báo cáo / Report link (Vietnamese): https://www.youtube.com/watch?v=4pXYE
 
 ## 🧰 Thành phần | Components
 
-- Vi điều khiển ATmega324p (AVR)
+- Vi điều khiển ATmega324p (AVR)  
   ATmega324p microcontroller (AVR)
-- Cảm biến nhiệt độ & độ ẩm DHT22
+- Cảm biến nhiệt độ & độ ẩm DHT22  
   DHT22 temperature & humidity sensor  
 - Màn hình LCD 16x2  
   16x2 LCD display
@@ -28,9 +28,9 @@ Link báo cáo / Report link (Vietnamese): https://www.youtube.com/watch?v=4pXYE
 ![image](https://github.com/user-attachments/assets/b21bd8f7-27fa-4804-b1c5-1d2b30211eed)
 
 ##📦 DHT22_LCD_AVR_Assembly
-*code/ → Mã nguồn Assembly | Assembly source code
-*simulation/ → File mô phỏng Proteus | Proteus simulation files
-*report/ → Báo cáo PDF | Project report
-*README.md → Mô tả song ngữ | Bilingual description
+###code/ → Mã nguồn Assembly | Assembly source code
+###simulation/ → File mô phỏng Proteus | Proteus simulation files
+###report/ → Báo cáo PDF | Project report
+###README.md → Mô tả song ngữ | Bilingual description
 
 
