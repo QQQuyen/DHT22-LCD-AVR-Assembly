@@ -1,3 +1,5 @@
+⚠️ **Note:** All documents, source code, reports, and videos are written and presented entirely in **Vietnamese**, intended for academic purposes at university. 
+
 ## Đọc dữ liệu cảm biến DHT22 và hiển thị lên LCD bằng AVR Assembly  
 ## Reading DHT22 Sensor and Displaying on LCD using AVR Assembly
 
