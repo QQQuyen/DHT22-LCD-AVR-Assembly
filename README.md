@@ -8,6 +8,7 @@ The project uses Assembly language to interface with a DHT22 sensor and display 
 
 ---
 
+
 ## 🧰 Thành phần | Components
 
 - Vi điều khiển ATmega324p (AVR)
@@ -25,8 +26,12 @@ The project uses Assembly language to interface with a DHT22 sensor and display 
 ## 📁 Cấu trúc thư mục | Folder Structure
 📦 TN03_DHT22_LCD_AVR_Assembly
 ├── code/ → Mã nguồn Assembly | Assembly source code
+
 ├── simulation/ → File mô phỏng Proteus | Proteus simulation files
+
 ├── report/ → Báo cáo PDF | Project report
+
 ├── videos/ → Video báo cáo & mô phỏng | Report and demo videos
+
 └── README.md → Mô tả song ngữ | Bilingual description
 
