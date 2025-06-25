@@ -8,6 +8,7 @@
 Dự án sử dụng ngôn ngữ Assembly để giao tiếp với cảm biến DHT22 và hiển thị kết quả nhiệt độ, độ ẩm lên LCD 16x2.  
 The project uses Assembly language to interface with a DHT22 sensor and display temperature and humidity data on a 16x2 LCD.
 
+Link báo cáo / Report link (Vietnamese): https://www.youtube.com/watch?v=4pXYEPa31uU
 ---
 
 
@@ -25,5 +26,11 @@ The project uses Assembly language to interface with a DHT22 sensor and display 
   Proteus simulation software  
 ---
 ![image](https://github.com/user-attachments/assets/b21bd8f7-27fa-4804-b1c5-1d2b30211eed)
+
+##📦 DHT22_LCD_AVR_Assembly
+-code/ → Mã nguồn Assembly | Assembly source code
+-simulation/ → File mô phỏng Proteus | Proteus simulation files
+-report/ → Báo cáo PDF | Project report
+-README.md → Mô tả song ngữ | Bilingual description
 
 
