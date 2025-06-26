@@ -64,8 +64,7 @@ Link báo cáo / Report link (Vietnamese): https://www.youtube.com/watch?v=4pXYE
 
 - `code/` → Mã nguồn Assembly | Assembly source code  (microchip studio 7)
 - `simulation/` → File mô phỏng Proteus | Proteus simulation files  
-- `report/` → Báo cáo PDF | Project report  
-- `README.md` → Mô tả song ngữ | Bilingual description  
-
+- `report/` → Báo cáo PDF | Project report (Vietnamese)
+- `README.md` 
 
 
